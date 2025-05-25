@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://www.garmin.com/xml/connectiq"
+    version="1.0">
+    <application id="com.example.longrunner" name="LongRunner" type="app">
+        <iq:permissions>
+            <iq:uses-permission id="Position"/>
+        </iq:permissions>
+    </application>
+</manifest>
